@@ -1,2 +1,1 @@
-# iot_apis
-Proyecto en conjunto con IOT y APIS
+# proyecto_iot_esp32
