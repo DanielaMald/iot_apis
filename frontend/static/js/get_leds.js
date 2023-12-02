@@ -1,5 +1,5 @@
 function get_leds(){
-    const URL = "https://esp32-5d7f8d64c991.herokuapp.com/iot"
+    const URL = "https://api-iot-dev-jfpf.4.us-1.fl0.io/iot"
     var request = new XMLHttpRequest;
     request.open('GET',URL);
     request.send();
